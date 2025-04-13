@@ -22,3 +22,7 @@ A clean, efficient, and beginner-friendly **Library Manager CLI app** built usin
 
 ### 🚀 Run the App:
 
+```bash
+git clone https://github.com/muneebofficial203/library-manager.git
+cd library-manager
+python library_manager.py
